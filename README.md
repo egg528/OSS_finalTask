@@ -2,8 +2,8 @@
 
 - 프로젝트 안내
   - 이번 프로젝트는 크롬 시작 페이지에 '시간'과 '오늘 해야할 일'을 띄워주는 앱을 만드는 프로젝트이다.
-  - ![Alt text](img/ex1.png)
-  - ![Alt text](img/ex2.png)
+  - ![Alt text](images/ex1.png)
+  - ![Alt text](images/ex2.png)
 
 * 어떻게 진행할 것인가
 
