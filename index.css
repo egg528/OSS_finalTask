@@ -1,30 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
 body {
   background-color: #2c3e50;
-  color: #34495e;
-  transition: color 0.5s ease-in-out;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  color: black;
 }
 
-.btn {
-  cursor: pointer;
-}
-
-.clicked {
-  color: #7f8c8d;
-}
 .form,
 .greetings {
   display: none;
 }
 
 .showing {
-  display: block;
+  display: flex;
+  justify-content: center;
 }
 
 @keyframes fadeIn {
-  from {
+  0% {
     opacity: 0;
   }
-  to {
+  50% {
+    opacity: 0;
+  }
+  100% {
     opacity: 1;
   }
 }
@@ -36,5 +36,45 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
-  animation: fadeIn 0.5s linear;
+  animation: fadeIn 0.8s linear;
+}
+
+.js-clock {
+  display: flex;
+  justify-content: center;
+  position: static;
+  margin-top: 170px;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.js-form {
+  justify-content: center;
+}
+
+.js-greetings {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  margin-top: 0px;
+}
+
+.js-toDoForm {
+  display: flex;
+  justify-content: center;
+}
+
+.js-toDoList {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.js-toDoList li button {
+  margin-left: 10px;
+}
+
+.js-weather {
+  display: flex;
+  justify-content: center;
 }
