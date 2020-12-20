@@ -6,9 +6,12 @@
   - ![Alt text](img/ex2.png)
 
 * 어떻게 진행할 것인가
-
+  - https://nomadcoders.co/javascript-for-beginners 해당 사이트의 강의와 함께 개발 진행
+  - 뼈대를 잡은 후 CSS와 기능을 추가하여 실제 사용이 가능하도록 진행
   - html, css, javascript를 활용해 일상 생활에 도움을 줄 수 있는 todolist 앱을 개발할 것이다.
   - 한번에 많은 양을 커밋하지 않고 양이 적어도 수시로 커밋을 할 것이다.
 
 * 참여인원
   * 1명(개인 프로젝트)
+  
+
