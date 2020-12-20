@@ -5,6 +5,9 @@
   - ![Alt text](img/ex1.png)
   - ![Alt text](img/ex2.png)
 
+- 설계도
+  - ![Alt text](img/se.png)
+
 * 어떻게 진행할 것인가
   - https://nomadcoders.co/javascript-for-beginners 해당 사이트의 강의와 함께 개발 진행
   - 뼈대를 잡은 후 CSS와 기능을 추가하여 실제 사용이 가능하도록 진행
@@ -27,5 +30,13 @@
   
 * 기여 방법
   * 수정사항 혹은 추가 기능에 대한 기여는 Fork후 PullRequest로 부탁드립니다.
+  
+* 커밋 로그
+  * ![Alt text](img/log.png)
+ 
+* 리뷰
+  * ![Alt text](img/re1.png)
+  * ![Alt text](img/re2.png)
+  * ![Alt text](img/re3.png)
   
 
