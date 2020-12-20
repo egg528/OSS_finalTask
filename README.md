@@ -15,7 +15,7 @@
   * 1명(개인 프로젝트)
   
 * 사용법
-  > git clone
+  > git clone   
   > index.html 파일을 통해 이용
   
 * 오류
