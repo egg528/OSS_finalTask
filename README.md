@@ -15,8 +15,8 @@
   * 1명(개인 프로젝트)
   
 * 사용법
-  > git clone   
-  > index.html 파일을 통해 이용
+  > (1) git clone   
+  > (2) index.html 파일을 통해 이용
   
 * 오류
   * ![Alt text](img/er1.png)
