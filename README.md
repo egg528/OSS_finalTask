@@ -14,4 +14,14 @@
 * 참여인원
   * 1명(개인 프로젝트)
   
+* 사용법
+  > git clone
+  > index.html 파일을 통해 이용
+  
+* 오류
+  * ![Alt text](img/er1.png)
+  * ![Alt text](img/er2.png)
+  * 배경화면이 나오지 않는 오류가 발생
+  * Console.log를 통해 해당 javascript 함수 내에서 image.src에 파일이 제대로 입력되지 않은 것 확인 
+  
 
